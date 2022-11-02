@@ -1,0 +1,60 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../images/destinywallpaper.jpg);
+
+}
+
+.header1 {
+    background-color: black;
+    color: white;
+    height: 100px;
+    font-size: 40px;
+
+}
+.side-panel-right {
+    float: right;
+    margin-right: 30px;
+    background-color: black;
+    margin-top: -25px;
+    height: 112vh;    
+}
+
+.side-panel-left {
+    float:left;
+    margin-left: 30px;
+    background-color: black;
+    margin-top: -25px;
+    height: 112vh;
+    margin-bottom: 1px;
+}
+
+button {
+    border-radius: 15px;
+    font-size: large;
+    color: black;
+    background-color: white;
+    width: 200px;
+    height: 100px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 5px;
+    word-spacing: 5px;
+    
+}
+
+li, input {
+    text-decoration: none;
+    margin: 40px;
+    font-size: 20px;
+}
+
+.search {
+
+    width: 200px;
+    height: 100px;
+    margin-right: -50px;
+    border-radius: 15px;
+}
